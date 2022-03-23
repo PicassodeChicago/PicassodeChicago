@@ -2,7 +2,7 @@
 - 👀 I’m interested in program.
 - 🌱 I’m currently learning p5.js, CSS and HTML.
 - 💞️ I’m looking to create my own business.
-- 📫 You can reach at indicadores@live.com.mx 
+- 📫 You can reach me at indicadores@live.com.mx 
 
 <!---
 PicassodeChicago/PicassodeChicago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
